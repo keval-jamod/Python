@@ -12,3 +12,4 @@ try:
     calculate_total(*numeric_list)
 except ValueError:
     print("Invalid input.")
+
